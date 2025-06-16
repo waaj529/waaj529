@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Wajid Abbas
+**A passionate Software Engineer || AI Engineer || **
 
+Email Me 👉 ✉️ **waaj529@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Lusterpix US startup as Full Stack Web developer
+- 🌱 **I’m currently learning:** Backend, Agentic Ai
+- 👯 **I’m looking to collaborate on:** Lusterpix and EduGuide
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Wajid
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/waaj529/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iamwajidabbas/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Used-Position-4835/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Wajid Abbas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waaj529@gmail.com) 
 
