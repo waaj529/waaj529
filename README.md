@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **waaj529@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Lusterpix US startup as Full Stack Web developer
-- 🌱 **I’m currently learning:** Backend, Agentic Ai
+- 🔭 **I’m currently working on:** Northlink my startup as Full Stack App developer
+- 🌱 **I’m currently learning:** Backend with nodejs, express, mongodb and restfull api, socket.io, Frontend with  flutter
 - 👯 **I’m looking to collaborate on:** Lusterpix and EduGuide
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
